@@ -1,4 +1,4 @@
-# Travel-PackageBooking
+# Travel-PackageBooking in java
 This project is a Travel Booking Management System built using Java. It allows users to book travel options such as flights, hotels, and transportation. The system offers a user-friendly interface to make and manage travel reservations efficiently.
 
 Features
